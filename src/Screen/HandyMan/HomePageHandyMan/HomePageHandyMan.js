@@ -800,7 +800,7 @@ export const HomePageHandyMan = ({ navigation }) => {
           :
           null
         }
-        {/* first comment Shd */}
+        {/* first shd comment Shd */}
 
       </View>
     </SafeAreaView>
